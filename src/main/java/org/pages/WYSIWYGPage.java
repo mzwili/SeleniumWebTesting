@@ -1,4 +1,4 @@
-package org.automationtest.page;
+package org.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;

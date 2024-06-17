@@ -1,4 +1,4 @@
-package org.automationtest.page;
+package org.pages;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
